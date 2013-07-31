@@ -1,0 +1,134 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 [\{"Rank":1,"Entrant":"David Alexander","Club":"Team Melia","Points":483,"Es":70,"BrO":125,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":45,"D":0,"LP":45,"IO":53,"NIO":0,"EOI":0,"M":120,"SI":0,"Cad":0,"Nat":0,"Bir":70,"SOI":0\},\
+\{"Rank":2,"Entrant":"Conor Nagle","Club":"Pembroke","Points":283,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":38,"NIO":105,"EOI":70,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":70\},\
+\{"Rank":3,"Entrant":"Peter Brown","Club":"Belfast","Points":243,"Es":0,"BrO":0,"Int":0,"NW":35,"WOI":60,"WO":0,"Am":0,"D":25,"LP":0,"IO":23,"NIO":53,"EOI":35,"M":23,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":35\},\
+\{"Rank":4,"Entrant":"Stephen Brown","Club":"Grosvenor","Points":221,"Es":0,"BrO":0,"Int":0,"NW":20,"WOI":25,"WO":0,"Am":0,"D":40,"LP":0,"IO":38,"NIO":38,"EOI":25,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":55\},\
+\{"Rank":5,"Entrant":"John Wyatt","Club":"UCD","Points":214,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":40,"WO":0,"Am":0,"D":0,"LP":15,"IO":23,"NIO":38,"EOI":55,"M":0,"SI":17,"Cad":0,"Nat":23,"Bir":20,"SOI":35\},\
+\{"Rank":6,"Entrant":"Christopher Cooke","Club":"Salle Paul","Points":210,"Es":82,"BrO":30,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":30,"D":0,"LP":30,"IO":38,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":7,"Entrant":"Maxton Milner","Club":"DUFC","Points":202,"Es":0,"BrO":0,"Int":26,"NW":0,"WOI":15,"WO":0,"Am":0,"D":15,"LP":0,"IO":23,"NIO":0,"EOI":35,"M":0,"SI":40,"Cad":0,"Nat":38,"Bir":40,"SOI":0\},\
+\{"Rank":8,"Entrant":"Fergal Martin","Club":"NUIM","Points":188,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":30,"IO":23,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":90,"Bir":20,"SOI":25\},\
+\{"Rank":9,"Entrant":"Kristofer Gwynne","Club":"Grosvenor","Points":153,"Es":0,"BrO":0,"Int":17,"NW":10,"WOI":15,"WO":0,"Am":0,"D":25,"LP":0,"IO":23,"NIO":38,"EOI":25,"M":15,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":25\},\
+\{"Rank":9,"Entrant":"Clarke Little","Club":"Grosvenor","Points":153,"Es":0,"BrO":0,"Int":0,"NW":55,"WOI":0,"WO":0,"Am":0,"D":15,"LP":0,"IO":0,"NIO":83,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":11,"Entrant":"Callum Bodels","Club":"Campbell College","Points":116,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":15,"LP":0,"IO":15,"NIO":23,"EOI":25,"M":23,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":12,"Entrant":"Jonathan Weekes","Club":"Salle Boston","Points":106,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":53,"EOI":0,"M":53,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":13,"Entrant":"Rafael Buhler","Club":"","Points":105,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":105,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":14,"Entrant":"Grant Couper","Club":"Salle Dublin","Points":103,"Es":0,"BrO":0,"Int":40,"NW":0,"WOI":25,"WO":0,"Am":0,"D":0,"LP":0,"IO":23,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":14,"Entrant":"Philip Slater","Club":"Lisburn Gladiators","Points":103,"Es":0,"BrO":0,"Int":0,"NW":20,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":15,"NIO":15,"EOI":15,"M":0,"SI":0,"Cad":7,"Nat":23,"Bir":0,"SOI":15\},\
+\{"Rank":16,"Entrant":"Rory Hayes","Club":"UCC","Points":99,"Es":0,"BrO":0,"Int":10,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":15,"M":0,"SI":26,"Cad":0,"Nat":23,"Bir":0,"SOI":15\},\
+\{"Rank":17,"Entrant":"Alastair Houldsworth","Club":"Belfast","Points":98,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":15,"LP":0,"IO":15,"NIO":23,"EOI":15,"M":15,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":18,"Entrant":"Philip Cripwell","Club":"Pembroke","Points":93,"Es":0,"BrO":0,"Int":17,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":8,"NIO":23,"EOI":0,"M":15,"SI":0,"Cad":13,"Nat":15,"Bir":0,"SOI":10\},\
+\{"Rank":19,"Entrant":"Kevin Maher","Club":"UCD","Points":88,"Es":0,"BrO":0,"Int":10,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":23,"EOI":15,"M":0,"SI":0,"Cad":0,"Nat":15,"Bir":0,"SOI":10\},\
+\{"Rank":20,"Entrant":"Brendan Cusack","Club":"","Points":83,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":83,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":21,"Entrant":"David White","Club":"Belfast","Points":83,"Es":0,"BrO":0,"Int":0,"NW":10,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":0,"NIO":23,"EOI":15,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":25\},\
+\{"Rank":22,"Entrant":"Alastair Johnson","Club":"Salle Holyrood","Points":78,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":23,"EOI":0,"M":15,"SI":0,"Cad":0,"Nat":0,"Bir":40,"SOI":0\},\
+\{"Rank":23,"Entrant":"Tony Eve","Club":"Grosvenor","Points":75,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":60,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":24,"Entrant":"Duncan Salter","Club":"Pembroke","Points":70,"Es":0,"BrO":0,"Int":3,"NW":5,"WOI":10,"WO":10,"Am":0,"D":10,"LP":0,"IO":15,"NIO":0,"EOI":15,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":25,"Entrant":"Patrick Dempsey","Club":"Saxon","Points":68,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":25,"M":0,"SI":0,"Cad":0,"Nat":23,"Bir":20,"SOI":0\},\
+\{"Rank":26,"Entrant":"Conor Traynor","Club":"DUFC","Points":62,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":10,"Cad":0,"Nat":15,"Bir":0,"SOI":10\},\
+\{"Rank":27,"Entrant":"Graham Williams","Club":"Grosvenor","Points":60,"Es":0,"BrO":0,"Int":0,"NW":5,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":15,"NIO":15,"EOI":0,"M":15,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":27,"Entrant":"Patrick Dight","Club":"UL","Points":60,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":60,"Bir":0,"SOI":0\},\
+\{"Rank":29,"Entrant":"Noel McGlynn","Club":"NUIM","Points":55,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":15,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":15,"Bir":0,"SOI":10\},\
+\{"Rank":30,"Entrant":"Samuel Gourley","Club":"Grosvenor","Points":53,"Es":0,"BrO":0,"Int":10,"NW":10,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":0,"NIO":23,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":30,"Entrant":"Philip Lee","Club":"","Points":53,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":53,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":CHN,"Entrant":"Li Dong","Club":"DUFC","Points":52,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":32,"Entrant":"Theo Millar","Club":"Belfast","Points":50,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":15,"NIO":15,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":33,"Entrant":"Colin Hogan","Club":"UCC","Points":47,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":7,"Cad":0,"Nat":15,"Bir":0,"SOI":10\},\
+\{"Rank":34,"Entrant":"Conor McClenahan","Club":"Belfast","Points":45,"Es":0,"BrO":0,"Int":0,"NW":5,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":0,"NIO":15,"EOI":15,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":35,"Entrant":"Richard Allen","Club":"Salle Boston","Points":43,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":23,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":20,"SOI":0\},\
+\{"Rank":36,"Entrant":"Gareth Reid","Club":"Grosvenor","Points":42,"Es":0,"BrO":0,"Int":7,"NW":10,"WOI":15,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":37,"Entrant":"Conor Coleman","Club":"NUIM","Points":41,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":8,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":8,"Bir":0,"SOI":10\},\
+\{"Rank":38,"Entrant":"Aidan Clarke","Club":"UCD","Points":39,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":17,"Cad":0,"Nat":15,"Bir":0,"SOI":0\},\
+\{"Rank":39,"Entrant":"Chris Jordan","Club":"University of Dundee","Points":38,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":38,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":39,"Entrant":"Cormac Foley","Club":"Escrime","Points":38,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":38,"Bir":0,"SOI":0\},\
+\{"Rank":39,"Entrant":"Evgeniy Kazantsev","Club":"","Points":38,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":38,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":39,"Entrant":"Jake Bodels","Club":"Campbell College","Points":38,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":15,"M":8,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":43,"Entrant":"Johan Van Vlaenderen","Club":"NUIM","Points":35,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":10,"M":0,"SI":10,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":43,"Entrant":"Ruari MacUnfraidh","Club":"Cyrano","Points":35,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":45,"Entrant":"Gavin Williams","Club":"Liverpool University","Points":30,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":30,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":45,"Entrant":"Mark McEvoy","Club":"","Points":30,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":15,"Bir":0,"SOI":0\},\
+\{"Rank":47,"Entrant":"Daragh Patterson","Club":"Belfast","Points":25,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":10,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":47,"Entrant":"David Burnside","Club":"Foyle","Points":25,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":25\},\
+\{"Rank":47,"Entrant":"Simon Egan","Club":"UCC","Points":25,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":7,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":47,"Entrant":"Thomas McCartan","Club":"DUFC","Points":25,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":7,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":51,"Entrant":"Benno Scarpellini","Club":"","Points":23,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":23,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":51,"Entrant":"Luke Dowling","Club":"DUFC","Points":23,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":5,"M":0,"SI":10,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":51,"Entrant":"Ward Kloots","Club":"","Points":23,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":23,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"Charles Clements","Club":"UU","Points":20,"Es":0,"BrO":0,"Int":0,"NW":5,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"Jerome Gresset","Club":"UU","Points":20,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":5,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"John Doyle","Club":"Campbell College","Points":20,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":5,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"Kieran O\'92Reilly","Club":"NUIM","Points":20,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":7,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"Oisin O\'92Riordan","Club":"UCC","Points":20,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":8,"NIO":0,"EOI":5,"M":0,"SI":7,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":54,"Entrant":"Scott O\'92Malley","Club":"Salle Dublin","Points":20,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":5,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":60,"Entrant":"George Ponsonby","Club":"Pembroke","Points":18,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":8,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":60,"Entrant":"Jeremiah Coffey","Club":"Cyrano","Points":18,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":5,"M":0,"SI":0,"Cad":0,"Nat":8,"Bir":0,"SOI":5\},\
+\{"Rank":60,"Entrant":"Fergus Foley","Club":"Escrime","Points":18,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":3,"Nat":15,"Bir":0,"SOI":0\},\
+\{"Rank":63,"Entrant":"Duncan Wallace","Club":"UCD","Points":17,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":63,"Entrant":"Jarno Jalonen","Club":"NUIM","Points":17,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":7,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Tim O\'92Callaghan","Club":"","Points":15,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":7,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Christopher Burns","Club":"NUIM","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":65,"Entrant":"Donal Mulligan","Club":"DUFC","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":65,"Entrant":"Garrett Sykes","Club":"UCD","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":65,"Entrant":"Jordan Williams","Club":"Grosvenor","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Kieran Patrick","Club":"University of Dundee","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Matthew Boyd","Club":"UU","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Mitchell Carr","Club":"UCD","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":15\},\
+\{"Rank":65,"Entrant":"Patrick Richardson","Club":"UU","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Paul Verdon","Club":"RBAI","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Richard Cochrane","Club":"Friends of Grosvenor","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":15,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Yangxiao Ou","Club":"UCC","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":65,"Entrant":"Yves Carnec","Club":"","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":65,"Entrant":"Ian Kenny","Club":"","Points":15,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":15,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":79,"Entrant":"Killian Hanlon","Club":"DUFC","Points":13,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":79,"Entrant":"Michael O\'92Dea","Club":"Pembroke","Points":13,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":79,"Entrant":"Ryan Simpson","Club":"Grosvenor","Points":13,"Es":0,"BrO":0,"Int":3,"NW":5,"WOI":0,"WO":0,"Am":0,"D":5,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":79,"Entrant":"Brendan Masterson","Club":"NUIG","Points":13,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":3,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":79,"Entrant":"James Burke","Club":"Pembroke","Points":13,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":5,"M":0,"SI":0,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":79,"Entrant":"Martin Friel","Club":"NUIM","Points":13,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":3,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Ido Ajzenstadt","Club":"","Points":10,"Es":0,"BrO":0,"Int":10,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Gavin Coleman","Club":"UCD","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":5\},\
+\{"Rank":85,"Entrant":"Graham Nevin","Club":"","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":10,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Helmi Yasim","Club":"UCD","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"John O\'92Sullivan","Club":"Cyrano","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":85,"Entrant":"Jonathon Burnside","Club":"Foyle","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":85,"Entrant":"Laurence Slater","Club":"Lisburn Gladiators","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":5,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":5\},\
+\{"Rank":85,"Entrant":"Noel Rodgers","Club":"NUIM","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Patrick Van Der Poll","Club":"Pallos","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Richard Magee","Club":"Foyle","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":10\},\
+\{"Rank":85,"Entrant":"Ronan Quinn","Club":"UCD","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Rudolf Hellmuth","Club":"NUIG","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":10,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":85,"Entrant":"Ruud Caris","Club":"Pallos","Points":10,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":10,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":98,"Entrant":"Denis Murphy","Club":"UL","Points":8,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":8,"Bir":0,"SOI":0\},\
+\{"Rank":98,"Entrant":"Thiel Guilhem","Club":"UU","Points":8,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":8,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":100,"Entrant":"Matthew Tracey","Club":"","Points":7,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":100,"Entrant":"Mulya Van Roon","Club":"","Points":7,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":100,"Entrant":"Stewart McClune","Club":"","Points":7,"Es":0,"BrO":0,"Int":7,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":100,"Entrant":"Derek O\'92Flynn","Club":"","Points":7,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":7,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Danny Schustow","Club":"UCC","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Dermott Ryan","Club":"UU","Points":5,"Es":0,"BrO":0,"Int":0,"NW":5,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Egidijus Truksinas","Club":"NUIG","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Finn Krewer","Club":"NUIG","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Fionn McGowan","Club":"NUIG","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"John Masterson","Club":"NUIG","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Mandla Mbondiya","Club":"UU","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":5,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Paddy Malloy","Club":"NUIG","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":104,"Entrant":"Patrick Dwan","Club":"Cyrano","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":5\},\
+\{"Rank":104,"Entrant":"Paul McLocghan","Club":"UL","Points":5,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":5,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Dermot Whelan","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Hugh Keenan","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"John McCabe","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Nathan Murphy","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Ray Sullivan","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Ruadhan Maher","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Sylvester Phelan","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Yangxi Li","Club":"","Points":3,"Es":0,"BrO":0,"Int":3,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Conor Boyle","Club":"","Points":3,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":3,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Paul McGowan","Club":"","Points":3,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":3,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":114,"Entrant":"Felix Perrin","Club":"Pembroke","Points":3,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":3,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":null,"Entrant":"","Club":"","Points":0,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":null,"Entrant":"","Club":"","Points":0,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\},\
+\{"Rank":null,"Entrant":"","Club":"","Points":0,"Es":0,"BrO":0,"Int":0,"NW":0,"WOI":0,"WO":0,"Am":0,"D":0,"LP":0,"IO":0,"NIO":0,"EOI":0,"M":0,"SI":0,"Cad":0,"Nat":0,"Bir":0,"SOI":0\}]}
